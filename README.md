@@ -1,46 +1,62 @@
-# KIBRU<h1 align="center">Hi there 👋 I'm Kibru 👨🏾‍💻</h1>
+
+<h1 align="center">Hi there, I'm Kibru YT! 👾</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F72D66&center=true&width=435&lines=👾+Retro+Dev+%7C+Technical+Thinker;💡+Lover+of+Clean+Code+and+Design;🎨+Creative+by+Nature+%7C+Logical+by+Training;🎮+Tech+is+My+Playground" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=👨‍💻+Full-stack+Adventurer;🎮+Retro-Tech+Lover;🚀+Learning+One+Bug+at+a+Time!" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🌈 About Me
-🎯 I blend retro aesthetics with modern code.<br>
-🧠 I love solving complex problems with simple solutions.<br>
-🛠️ Tools I enjoy using: `React`, `Node.js`, `Tailwind`, `Python`, `Figma`, `Linux`.<br>
-📺 My development style: a bit 80s synth, a bit hacker terminal ⚡
-
----
-
-### 🧰 Tech Toolbox
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,git,linux,html,css,figma" />
+  <img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" width="300" alt="Retro Computer" />
 </p>
 
 ---
 
-### 🎨 Retro Vibes Meet Code
-<img src="https://media.giphy.com/media/oe33xf3B50fsc/giphy.gif" width="250" align="right">
+## 🧠 About Me
 
-I believe **code can be art**.
-
-Whether it's designing pixel-perfect UIs or optimizing backend logic, I bring the same creative energy.
-
-I’m passionate about retro visuals, terminal interfaces, synthwave color palettes, and anything that makes my work *feel alive*.
+🎮 Gamer by nature, developer by choice.  
+🌐 Retro tech and futuristic vibes? Yes, please.  
+🛠️ Currently learning how to make cool stuff break—and then fix it like a pro.  
+😅 I believe `console.log("life")` is the only debugger you need sometimes.  
 
 ---
 
-### 📈 GitHub Stats
+## ⚙️ Tech Stack
 
-![Kibru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
----
-
-### 🎵 Currently Vibing To:
-[![Spotify](https://readme-spotify-status.vercel.app/api/run-spotify-status)](https://open.spotify.com)
+![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-> 🔊 _“Let your code speak as loudly as your design.”_
+## 🧩 Fun Facts
+
+- I talk to my code (it doesn’t always reply) 🤖  
+- Love ASCII art and blinking terminals 💾  
+- I once called a bug “my little monster” 🐛  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KibruYT&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KibruYT&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mezimuri04)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ki68463)
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/fwbzI2kV3fS6Y/giphy.gif" width="250" />
+</p>
+
+> ✨ *Retro soul with a modern codebase* ✨
