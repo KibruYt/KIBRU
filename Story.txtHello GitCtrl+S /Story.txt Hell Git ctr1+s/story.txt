@@ -1,1 +1,1 @@
-Hello GitCtrl+S / Cmd+S
+Hello Git
